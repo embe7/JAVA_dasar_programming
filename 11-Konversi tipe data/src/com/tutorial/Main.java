@@ -4,6 +4,12 @@ public class Main {
 
     public static void main(String[] args) {
 
+        /* Konversi Tipe Data Number ada 2 jenis yaitu :
+        1. Widening Casting (otomatis) : byte -> short -> int -> long -> float ->double
+        2. Narrowing Casting (manual) : double -> float -> long -> int -> short -> byte
+        */
+        
+        
         // program untuk konversi data
 
         int nilaiInt = 450; //32-bit
