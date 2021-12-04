@@ -4,6 +4,10 @@ public class Main {
 
     public static void main (String[] args){
 
+/*
+  - While loop adalah versi perulangan yang lebih sederhana dibandingkan for loop
+  - di while loop, hanya terdapat kondisi perulangan tanpa ada init statement dan post statement
+ */        
 
 //        while (kondisi) {
 //            aksi
