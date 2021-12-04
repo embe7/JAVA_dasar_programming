@@ -4,6 +4,11 @@ public class Main {
 
     public static void main (String[] args){
 
+ /*
+    - For adalah salah satu kata kunci untuk melakukan perulangan
+    - Blok kode yang terdapat didalam for akan selalu diulangi selama kondisi for terpenuhi
+ */       
+
 //        for (inisialisasi; kondisi; step nilai){
 //
 //            aksi;
